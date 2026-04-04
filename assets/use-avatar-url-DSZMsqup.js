@@ -1,4 +1,4 @@
-import{B as v,s as u,f as c,o as i,c as l,r as g,m as s,t as f,j as m,p as b,q as y,b as h,ab as z,I as S,a0 as w}from"./index-V4GDEODc.js";var P=`
+import{B as v,s as u,f as c,o as i,c as l,r as g,m as s,t as f,j as m,p as b,q as y,b as h,ab as z,I as S,a0 as w}from"./index-DXWwdiO2.js";var P=`
     .p-avatar {
         display: inline-flex;
         align-items: center;
